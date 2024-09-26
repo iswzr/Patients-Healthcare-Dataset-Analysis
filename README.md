@@ -2,7 +2,7 @@
 
  ## Emergency Room Visit Analysis Dashboard
 
- 
+ ![hospital data](https://github.com/user-attachments/assets/5421fdf1-b611-463b-9422-11cc4348adf3)
 
 ### Overview:
 This project presents an interactive dashboard for analyzing 9,216 patient visits to an emergency room. It offers comprehensive insights into patient demographics, visit patterns, satisfaction rates, and departmental referrals, aiming to improve emergency room operations and patient care through data-driven decision-making.
