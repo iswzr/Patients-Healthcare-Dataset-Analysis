@@ -2,7 +2,7 @@
 
 
  ![hospital data](https://github.com/user-attachments/assets/5421fdf1-b611-463b-9422-11cc4348adf3)
-https://app.powerbi.com/view?r=eyJrIjoiY2QzMzExZWUtMzMwOS00YTAxLTg2NTMtNDFiMTJkMDMyM2ZhIiwidCI6ImY5NjQzM2FkLWQ2Y2QtNDk1MS1iYjdiLWVmNDQyYmI4YzdmOCIsImMiOjZ9
+
 
 ## 📊 Project Overview
 A comprehensive emergency room analytics dashboard built to track and analyze patient visits, satisfaction metrics, and demographic patterns. This project transforms raw healthcare data into actionable insights, helping hospital administrators make informed decisions about resource allocation and patient care.
